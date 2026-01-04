@@ -12,7 +12,7 @@
 
 **Your AI-powered study companion for B.Tech exam success across Indian universities**
 
-[Live Demo](https://lovable.dev) • [Report Bug](https://github.com/yourusername/unizen/issues) • [Request Feature](https://github.com/yourusername/unizen/issues)
+[Live Demo](https://lovable.dev/projects/d29e6ea7-691f-44d2-af00-d3437471cb8c) • [Report Bug](https://github.com/yourusername/unizen/issues) • [Request Feature](https://github.com/yourusername/unizen/issues)
 
 </div>
 
